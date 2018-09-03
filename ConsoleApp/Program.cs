@@ -15,6 +15,7 @@ namespace ConsoleApp
 
     public class Ejemplo
     {
-
+public void Mensaje(){
+    Console.writeline("Hola Mundo);
     }
 }
